@@ -40,3 +40,7 @@ class BinarySerachTree:
 
         if root == tree:
             pass
+
+    def add(self):
+        pass
+    
