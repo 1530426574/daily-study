@@ -43,4 +43,6 @@ class BinarySerachTree:
 
     def add(self):
         pass
-    
+
+    def hello(self):
+        pass
