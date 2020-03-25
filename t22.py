@@ -49,3 +49,6 @@ class BinarySerachTree:
 
     def world(self):
         pass
+
+    def this(self):
+        pass
